@@ -10,8 +10,8 @@
   </a>
 </p>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/keeganwut/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+<a href="#keeganwut-title">
+  <img src="https://raw.githubusercontent.com/keeganwut/github-stats-transparent/output/generated/overview.svg" alt="keeganwut" align="right" />
 </a>
 
 <br>
