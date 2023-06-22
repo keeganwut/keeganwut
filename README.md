@@ -1,5 +1,5 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=keeganwut.keeganwut)
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+[![Github](https://img.shields.io/github/followers/keeganwut?label=Follow&style=social)](https://github.com/keeganwut)
 
 <!--
 **keeganwut/keeganwut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
