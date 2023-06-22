@@ -1,5 +1,5 @@
 <h1 align="left" id="keeganwut-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<h3 align="left">Intermediate script developer working on CFX Projects.</h3>
 
 <p align="left">
   <a href="https://github.com/keeganwut">
