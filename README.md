@@ -2,23 +2,11 @@
 <h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
 
 <p align="left">
-  <a href="https://github.com/keeganwut/keeganwut">
+  <a href="https://github.com/keeganwut">
     <img src="https://komarev.com/ghpvc/?username=keeganwut" alt="page views" />
-  </a>
-  <a href="https://keeganwut.readthedocs.io/en/latest">
-    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/keeganwut?logo=read-the-docs">
-  </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://reddit.com/u/keeganwut">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/keeganwut?label=karma&logo=reddit">
   </a>
   <a href="https://github.com/keeganwut?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/keeganwut?color=green&logo=github">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
 </p>
 
